@@ -74,10 +74,5 @@ This research demonstrates that peer mentorship:
 - Is especially valuable for struggling students
 - Creates measurable improvements across multiple life domains
 
-## Ethical Considerations
-- IRB approved research
-- All participant data anonymized
-- Aggregate reporting only
-
 ---
 *This research was conducted to evaluate and improve the ESL Peer Mentorship Program at Northeastern University.*
